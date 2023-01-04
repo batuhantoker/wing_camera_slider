@@ -1,2 +1,2 @@
 # wing_camera_slider
- CAD files for two arm robotic arm based on one actuator wing mechanism
+Kinematic analysis and simulation of two link robotic arm based on one actuator wing mechanism
